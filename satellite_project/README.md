@@ -184,13 +184,3 @@ Change Detector:
 
 ---
 
-## ✅ Final Submission Checklist
-
-- [x] GitHub repo — clean, README + requirements.txt
-- [x] All notebooks runnable top-to-bottom
-- [x] `.gitignore` — data, checkpoints, cache excluded
-- [ ] Saved model checkpoint committed / linked via Git LFS
-- [ ] Streamlit app tested locally
-- [ ] PDF report (max 8 pages)
-- [ ] 3-minute demo video
-- [x] Bonuses A, B, C, D labelled in repo and dashboard
