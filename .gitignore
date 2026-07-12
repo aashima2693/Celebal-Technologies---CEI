@@ -31,9 +31,9 @@ data/*.zip
 # To commit via Git LFS: git lfs track "*.pt"
 outputs/checkpoints/*.pt
 
-# Generated outputs (reproducible from notebooks)
-outputs/plots/
-outputs/heatmaps/
+# Generated outputs (keeping for demo purposes)
+# outputs/plots/
+# outputs/heatmaps/
 
 # Numpy arrays (large)
 src/*.npy
